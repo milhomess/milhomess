@@ -96,7 +96,7 @@ Olá! Me chamo Eduardo Milhomes, tenho 19 anos e sou natural do Rio Grande do No
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right:20px;"
+    style="padding-right:5px;"
     src="https://github-readme-stats.vercel.app/api?username=milhomess&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-BR"
 />
 
@@ -104,6 +104,5 @@ Olá! Me chamo Eduardo Milhomes, tenho 19 anos e sou natural do Rio Grande do No
     align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right:20px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=milhomess&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
 />
